@@ -1,6 +1,6 @@
 {
   "name": "redact-secrets",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Deeply iterate over an object and redact secret values by replacing them with a predefined string",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
