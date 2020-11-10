@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
-    "is-secret": "^1.0.0",
+    "is-secret": "^1.2.1",
     "traverse": "^0.6.6"
   },
   "devDependencies": {
