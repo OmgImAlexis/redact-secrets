@@ -20,6 +20,7 @@
     "dist"
   ],
   "scripts": {
+    "prepack": "npm run build",
     "prepare": "npm run build",
     "build": "npx tsup index.ts --dts",
     "test": "node test.js"
